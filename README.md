@@ -3,7 +3,7 @@ A script to generate a list of newly arrived nations into your region and save i
 
 # Setting Up Prerequisites
 1. Download and install [Python 3](https://www.python.org/downloads/)
-2. Install [PyNationStates](https://github.com/DolphDev/pynationstates) using pip with following command
+2. Install [PyNationStates](https://github.com/DolphDev/pynationstates) with pip using the following command
 ```
 pip install nationstates
 ```
